@@ -1,6 +1,6 @@
 # Easy Rename
 
-Easy Rename is a application developed to help you rename multiple files simultaneously with ease. We friends use to download a lot from internet and later required to rename the files, especially getting rid of website names from downloaded files :P
+Easy Rename is a application developed to help you rename multiple files simultaneously with ease. We friends use to download a lot from internet and required to rename those files later on, especially getting rid of website names from downloaded files :P, so we developed this application.
 
 You you're free to add your code in the way that you want.
 
