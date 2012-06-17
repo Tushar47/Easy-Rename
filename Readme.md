@@ -6,7 +6,7 @@ You you're free to add your code in the way that you want.
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/Tushar47/EasyRename.git`
+Clone the git repo - `git clone git://github.com/Tushar47/Easy-Rename.git`  - or [download it](https://github.com/h5bp/Easy-Rename/zipball/master)
 
 
 ## Features
