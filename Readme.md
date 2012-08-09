@@ -13,7 +13,7 @@ Clone the git repo - `git clone git://github.com/Tushar47/Easy-Rename.git`  - or
 
 * Graphical User Interface (Common now-a-days).
 * Quickly rename single file.
-* Batch rename (elimnate common string from the files)
+* Batch rename (ditch common string from the files)
 
 
 ## Contributing
@@ -24,4 +24,4 @@ Anyone and everyone is welcome to contribute
 ## About Us
 * Tushar Sonawane (@Tushkiz)
 * Onkar Kamatkar 
-* Shridhar Deshmukh (@33shr33)
+* Shridhar Deshmukh (@33shree33)
