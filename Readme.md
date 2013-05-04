@@ -6,7 +6,7 @@ You you're free to add your code in the way that you want.
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/Tushar47/Easy-Rename.git`  - or [download it](https://github.com/h5bp/Easy-Rename/zipball/master)
+Clone the git repo - `git clone git://github.com/Tushar47/Easy-Rename.git`  - or [download it](https://github.com/Tushar47/Easy-Rename/archive/master.zip)
 
 
 ## Features
@@ -23,5 +23,5 @@ Anyone and everyone is welcome to contribute
 
 ## About Us
 * Tushar Sonawane (@Tushkiz)
-* Onkar Kamatkar 
+* Onkar Kamatkar (@OKamatkar)
 * Shridhar Deshmukh (@33shree33)
